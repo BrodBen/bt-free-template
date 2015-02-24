@@ -1,0 +1,62 @@
+/* -------------------------------------
+* Template Name: BT Template
+* Description: Lorem ipsum dolor sit amet
+* Author: BrodThemes
+* Version: 1.0.0
+* License: 
+*--------------------------------------*/
+
+
+/*-------------------/
+* START: Global Styles
+--------------------*/
+
+
+/*-------------------/
+* END: Global Styles
+--------------------*/
+/*-------------------/
+* START: Header Styles
+--------------------*/
+
+#site-header{
+
+}
+
+#site-header .navbar .navbar-toggle{
+	border-color: #ddd;
+}
+
+#site-header .navbar .navbar-toggle .icon-bar {
+	background-color: #888;
+}
+
+/*-------------------/
+* END: Header Styles
+--------------------*/
+/*-------------------/
+* START: Footer Styles
+--------------------*/
+
+#site-footer{
+
+}
+
+/*-------------------/
+* END: Footer Styles
+--------------------*/
+/*-------------------/
+* START: Homepage Styles
+--------------------*/
+
+.template-home{
+
+}
+
+/*-------------------/
+* START: Homepage Styles
+--------------------*/
+
+
+
+
